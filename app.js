@@ -57,6 +57,7 @@
     pilotLink: 'Explore the public pilot ↗', educationLive: 'Explore the public pilot ↗', pilot: 'Public pilot', publicPilot: 'Public pilot',
   };
 
+  english.navHub = 'Games and automation ↗';
   const repos = [
     ['llm-cascade','ai','Roteamento de LLMs com fallback e registro de custo; reduz dependência de um provedor.','LLM routing with fallback and cost records; reduces dependence on a single provider.','APIs com IA e papéis especializados.','AI APIs and specialized roles.'],
     ['outcome-watchdog','reliability','Verifica resultados de rotinas para detectar sucesso sem entrega.','Checks job outcomes to detect success without delivery.','Agendadores, pipelines de dados e agentes.','Scheduled jobs, data pipelines and agents.'],
